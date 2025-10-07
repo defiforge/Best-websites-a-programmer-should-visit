@@ -167,6 +167,7 @@ When learning CS there are some useful sites you must know to get always informe
   * [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners ](http://www.artima.com/insidejvm/ed2/index.html)
   * [Understanding JVM Internals ](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
   * [How Garbage Collection Works ](http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)
+  - [Learn to code Blockchain Dapps] (https://cryptozombies.io/): Learn to Code Blockchain DApps by Building Simple Games
   * [Welcome to JavaWorld.com ](http://www.javaworld.com/)
   * [The Java Memory Model ](http://www.cs.umd.edu/~pugh/java/memoryModel/)
   * [Netbeans Keyboard Shortcuts ](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) Keyboard shortcuts to enhance your productivity when working in Netbeans.
